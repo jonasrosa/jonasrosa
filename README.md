@@ -1,10 +1,13 @@
 
-## Olá Jonas Rosa
-####  Curso Engenharia de Software, na Faculdade UniAcademia  
+## Olá , sou Jonas Rosa 
 
-<a href='https://www.linkedin.com/in/jonas-rosa-a917151bb/'>
-  <img align='center' alt="jonas-linkedin" height="30" width="40 src="https://aquilasweb.com.br/wp-content/uploads/2017/07/Aquilas-WEB-Linkedin-Logo.jpg"/>
-</a>
+👨‍🎓 Cursando Engenharia de Software
+💻 Trabalho Atualmente na Tellegroup
+
+
+
+
+
 
 <!--
 **jonasrosa/jonasrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
