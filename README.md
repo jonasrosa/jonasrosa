@@ -1,4 +1,10 @@
-### Hi there 👋
+
+## Olá Jonas Rosa
+####  Curso Engenharia de Software, na Faculdade UniAcademia  
+
+<a href='https://www.linkedin.com/in/jonas-rosa-a917151bb/'>
+  <img align='center' alt="jonas-linkedin" height="30" width="40 src="https://aquilasweb.com.br/wp-content/uploads/2017/07/Aquilas-WEB-Linkedin-Logo.jpg"/>
+</a>
 
 <!--
 **jonasrosa/jonasrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
