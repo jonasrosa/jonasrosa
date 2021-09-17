@@ -2,7 +2,11 @@
 ## Olá , sou Jonas Rosa 
 
 👨‍🎓 Cursando Engenharia de Software
-💻 Trabalho Atualmente na Tellegroup
+
+"A imaginação é mais importante que o conhecimento. O conhecimento é limitado, enquanto a 
+imaginação abraça o mundo inteiro, estimulando o progresso, e dando origem à evolução.” 
+ Albert Einstein
+
 
 
 
